@@ -12,7 +12,7 @@ Welcome to my GitHub repository. Here, you'll find a collection of projects and 
 
 Here are some of the projects you'll find in this repository:
 
-- [Tkinter Registration Forma](https://github.com/ViniciusCastellani/Tkinter_Project_Registration_Form): Registration form in tkinter that inserts data of the user in excel data sheet.
+- [Tkinter Registration Form](https://github.com/ViniciusCastellani/Tkinter_Project_Registration_Form): Registration form in tkinter that inserts data of the user in excel data sheet.
 
 Feel free to explore and provide feedback on any of these projects.
 
