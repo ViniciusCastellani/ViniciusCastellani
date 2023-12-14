@@ -4,7 +4,7 @@ Welcome to my GitHub repository. Here, you'll find a collection of projects and 
 
 ## About Me
 
-- 👨‍💻 I'm a self-driven learner exploring the realms of Python and C++.
+- 👨‍💻 I'm a self-driven learner exploring the realms of Python.
 - 🌱 I'm committed to continuous growth and improvement.
 - 🤝 I believe in the power of collaboration and enjoy helping others.
 
