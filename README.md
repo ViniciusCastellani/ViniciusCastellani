@@ -15,7 +15,7 @@ Here are the technologies I frequently work with:
 <p>
   <img src="https://imgs.search.brave.com/3Nl9xY8gw7jwQPCUqZIZAFPq2HsGeZi8vOL5DCFzOMk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9weXRob24tbG9n/by5wbmc" alt="Python" title="Python" width="50" style="float:left;margin-right:20px;"/> <!-- Python Image -->
   <img src="https://imgs.search.brave.com/2bueKhZ25lsPYVn1WJXM5ex_9zxPxxAGP20-jIevjtk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0lTT19DKytf/TG9nby5zdmc.svg" alt="C++" title="C++" width="50" style="float:left;margin-right:20px;"/> <!-- C++ Image -->
-  <img src="https://imgs.search.brave.com/aWLACazA0X9_qjwma_wOS4PuKPVkv1Z1d-JIoWhVb3U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/c3BuZy5vcmcvZG93/bmxvYWQvbWljcm9z/b2Z0LWV4Y2VsL2xv/Z28tbWljcm9zb2Z0/LWV4Y2VsLTEwMjQu/cG5n" alt="Excel" title="Excel" width="50" style="float:left;margin-right:20px;"/> <!-- Excel Image -->
+  <img src="https://imgs.search.brave.com/mtQxVYtaS8oFHqt9hg5kxiELDKd7m2zbsAEgtQP0sHQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM0L01pY3Jvc29m/dF9PZmZpY2VfRXhj/ZWxfKDIwMTklRTIl/ODAlOTNwcmVzZW50/KS5zdmc.svg" alt="Excel" title="Excel" width="50" style="float:left;margin-right:20px;"/> <!-- Excel Image -->
 </p>
 
 ## Projects
