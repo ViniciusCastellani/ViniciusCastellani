@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello i am Vinicius! I am currently on my third year of CS.<br>👨‍💻 I'm a self-driven learner exploring the realms of Python, data and backend with Java.<br>🌱 I'm committed to continuous growth and improvement.<br>🤝 I believe in the power of collaboration and enjoy helping others.<br>
+👋 Hello i am Vinicius! I am currently on my last year of CS.<br>👨‍💻 I'm a self-driven learner exploring the realms of Python, data and backend with Java.<br>🌱 I'm committed to continuous growth and improvement.<br>🤝 I believe in the power of collaboration and enjoy helping others.<br>
 
 
 ## 🌐 Socials:
