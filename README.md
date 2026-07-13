@@ -84,11 +84,12 @@ I'm a Computer Science student in my final year, focused on **backend developmen
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCastellani&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCastellani&theme=gotham&hide_border=false" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ViniciusCastellani&theme=gotham&hide_border=false" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCastellani&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
