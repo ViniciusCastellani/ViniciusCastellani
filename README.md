@@ -84,26 +84,10 @@ I'm a Computer Science student in my final year, focused on **backend developmen
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusCastellani&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=ViniciusCastellani&theme=gotham&hide_border=false" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCastellani&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
-</p>
-
-<details>
-<summary>🔝 Top Contributed Repo</summary>
-<img src="https://github-contributor-stats.vercel.app/api?username=ViniciusCastellani&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</details>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ViniciusCastellani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ViniciusCastellani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ViniciusCastellani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ViniciusCastellani&icon=0&color=0" />
-  </a>
-</p>
+[![](https://komarev.com/ghpvc/?username=ViniciusCastellani&icon=0&color=0)](https://visitcount.itsvg.in)
