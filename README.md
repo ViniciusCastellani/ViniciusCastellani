@@ -84,10 +84,18 @@ I'm a Computer Science student in my final year, focused on **backend developmen
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ViniciusCastellani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ViniciusCastellani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ViniciusCastellani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📊 GitHub Stats
 
----
-[![](https://komarev.com/ghpvc/?username=ViniciusCastellani&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=ViniciusCastellani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=440" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ViniciusCastellani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=440" /></td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ViniciusCastellani&theme=dark&hide_border=true" />
+</p>
+<details>
+<summary>🔝 Top Contributed Repo</summary>
+<img src="https://github-contributor-stats.vercel.app/api?username=ViniciusCastellani&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</details>
